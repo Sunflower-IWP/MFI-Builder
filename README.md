@@ -1,6 +1,7 @@
 # MFI-Builder
 我的世界快速建造Gametest组件<br>
-C 2023 Sunflower IWP<br>
+<em>C 2023 Sunflower IWP</em><br>
+<a href="https://m.ds.163.com/user/72d29936c4a54dbabf4498d42b7d8bf7">网易大神</a>
 ## 在使用之前：
 • 我的世界版本（非Preview）1.19.51及以上<br>
 • 在实验玩法中开启ScriptAPI<br>
